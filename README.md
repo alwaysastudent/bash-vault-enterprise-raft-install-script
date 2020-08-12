@@ -1,5 +1,6 @@
 # bash-vault-enterprise-raft-install-script
-bash-vault-enterprise-raft-install-script
+* bash-vault-enterprise-raft-install-script
+* Works on CentOS
 
 ## Fill out variables:
 * VAULT_USER_NAME="vault"
